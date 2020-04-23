@@ -6,7 +6,7 @@ My course notes on the udemy course by Fred Baptista
 3. Properties: 
 	@property[getter, setter, deleter] /
 	read_only_properties & circle_area example & webpage_download example - properties.ipynb
-
+4. Class vs Static Method, scope puzzle, recap - static_class_methods.ipynb
 Extra:
 
 Dark Mode on Jupyter:
