@@ -8,6 +8,7 @@ My course notes on the udemy course by Fred Baptista
 	read_only_properties & circle_area example & webpage_download example - properties.ipynb
 4. Class vs Static Method, scope puzzle, recap - static_class_methods.ipynb
 5. Polymorphism & Special Methods & hashing & class closure with __call__ - polymorphism.ipynb
+6. Single_inheritance & Overriding & Extending & Super() - inheritance.ipynb
 
 Extra:
 
